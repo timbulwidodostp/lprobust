@@ -1,4 +1,22 @@
-D 'DEA': Data envelopment analysis
+D 'lprobust': Local Polynomial Regression Estimation with Robust Bias-Corrected Confidence Intervals and Inference Procedures Use lprobust With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F kdbwselect.ado
+F kdbwselect.sthlp
+F kdrobust.ado
+F kdrobust.sthlp
+F lpbwselect.ado
+F lpbwselect.sthlp
+F lprobust.ado
+F lprobust.sthlp
+F nprobust_k_fun.mo
+F nprobust_l_fun.mo
+F nprobust_lp_bw.mo
+F nprobust_lp_cer.mo
+F nprobust_lp_coef.mo
+F nprobust_lp_kweight.mo
+F nprobust_lp_mse.mo
+F nprobust_lp_mse_dpi.mo
+F nprobust_lp_q.mo
+F nprobust_lp_res.mo
+F nprobust_lp_vce.mo
+F nprobust_w_fun.mo
